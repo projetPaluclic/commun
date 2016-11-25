@@ -17,7 +17,7 @@ import java.util.Date;
 
 public class DtoBilanBase {
 	
-	
+	// Maj
 	//###### Attributs de la classe DtoBilanBase #######
 	/**
 	 * Identifiant du patient dans le bilan
